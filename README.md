@@ -6,3 +6,4 @@
   - System Administrator
   - or similar roles
 - How to reach me: ellie@arrie.io
+- https://www.linkedin.com/in/elliesorensen/
